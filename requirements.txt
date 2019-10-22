@@ -1,0 +1,3 @@
+gunicorn==19.9.0
+newrelic==5.2.1.129
+PyMySQL==0.9.3
